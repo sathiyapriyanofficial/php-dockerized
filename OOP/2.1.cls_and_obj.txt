@@ -1,0 +1,8 @@
+Class - Blueprint of a object 
+Object - Instance of a class or creating a template from class. 
+Chain Methods
+Magic Methods 
+Destruct - life time is end of script - clean up use only it clean such as db. ⚠️
+Unset - Destruct
+StdClass - custom class 
+Object Casting  -  (object) $array 
